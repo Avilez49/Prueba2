@@ -17,6 +17,9 @@ public class ClasePrueba {
        Num = numeroAleatorio.nextInt( 100 );
        System.out.print( Num + " " );
     }
+		System.out.println("Biuford");
+
 	}
+	
 
 }
